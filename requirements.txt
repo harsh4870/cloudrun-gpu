@@ -1,0 +1,4 @@
+flask 
+ollama 
+llama_index 
+llama-index-llms-ollama
